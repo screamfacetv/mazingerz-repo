@@ -1,2 +1,2 @@
-# mazingerz-repo
-Todo en tv y peliculas
+# Mazingerz-Repositorio
+Todo en tv seiries y peliculas
